@@ -1,2 +1,3 @@
 # vs-demo
-this repo is for fun
+this repo is for fun.
+author-vishal sridhar
